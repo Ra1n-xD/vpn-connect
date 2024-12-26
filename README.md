@@ -3,8 +3,8 @@
 ### 1) Для Windows, Android, Linux (приложение Hiddify)
 **Шаги настройки ВПН (выполняется один раз, потом просто пользуемся с кайфом):**
 1) Устанавливаем приложение 
--- Приложение для ПК необходимо выбрать по ссылке под Вашу операционную систему: [https://github.com/hiddify/hiddify-next/releases](https://github.com/hiddify/hiddify-next/releases) [](https://github.com/hiddify/hiddify-next/releases)
--- Приложение на Android установить через Google Play: [https://play.google.com/store/apps/details?id=app.hiddify.com](https://play.google.com/store/apps/details?id=app.hiddify.com)
+- Приложение для ПК необходимо выбрать по ссылке под Вашу операционную систему: [https://github.com/hiddify/hiddify-next/releases](https://github.com/hiddify/hiddify-next/releases) [](https://github.com/hiddify/hiddify-next/releases)
+- Приложение на Android установить через Google Play: [https://play.google.com/store/apps/details?id=app.hiddify.com](https://play.google.com/store/apps/details?id=app.hiddify.com)
 2) После установки меняем Регион с **"Россия"** на **"Другой"**:
 ![](https://wiki.aeza.net/~gitbook/image?url=https%3A%2F%2F3617065060-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FUnRPFrwc6T8DKu166mM1%252Fuploads%252FpMgT5j3r9TPlWJvSz2oR%252FScreenshot_65.jpg%3Falt%3Dmedia%26token%3D31c89b06-3238-452e-b973-9808c40a927c&width=768&dpr=4&quality=100&sign=95a93515&sv=2)
 3) Далее необходимо **СКОПИРОВАТЬ КЛЮЧ, КОТОРЫЙ ПРОСИМ У МЕНЯ**, запускаем приложение **Hiddify** и кликаем **новый профиль:**
