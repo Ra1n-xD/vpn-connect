@@ -1,5 +1,5 @@
-## Для Windows, Android, Linux (приложение Hiddify)
-### Шаги настройки ВПН (выполняется один раз, потом просто пользуемся с кайфом):**
+# Для Windows, Android, Linux (приложение Hiddify)
+### Шаги настройки ВПН (выполняется один раз, потом просто пользуемся с кайфом):
 1) Устанавливаем приложение 
 - Приложение для ПК необходимо выбрать по ссылке под Вашу операционную систему: [https://github.com/hiddify/hiddify-next/releases](https://github.com/hiddify/hiddify-next/releases) [](https://github.com/hiddify/hiddify-next/releases)
 - Приложение на Android установить через Google Play: [https://play.google.com/store/apps/details?id=app.hiddify.com](https://play.google.com/store/apps/details?id=app.hiddify.com)
