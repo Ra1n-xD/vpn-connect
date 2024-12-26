@@ -8,15 +8,19 @@
 2) После установки меняем Регион с **"Россия"** на **"Другой"**:
 
 ![](https://wiki.aeza.net/~gitbook/image?url=https%3A%2F%2F3617065060-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FUnRPFrwc6T8DKu166mM1%252Fuploads%252FpMgT5j3r9TPlWJvSz2oR%252FScreenshot_65.jpg%3Falt%3Dmedia%26token%3D31c89b06-3238-452e-b973-9808c40a927c&width=768&dpr=4&quality=100&sign=95a93515&sv=2)
+
 3) Далее необходимо **СКОПИРОВАТЬ КЛЮЧ, КОТОРЫЙ ПРОСИМ У МЕНЯ**, запускаем приложение **Hiddify** и кликаем **новый профиль:**
 
 ![](https://wiki.aeza.net/~gitbook/image?url=https%3A%2F%2F3617065060-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FUnRPFrwc6T8DKu166mM1%252Fuploads%252FcBrbbgeXhP6qRlz7InPx%252FScreenshot_16.jpg%3Falt%3Dmedia%26token%3D465be4a6-300d-4a42-a7a5-f995e41a4e3a&width=768&dpr=4&quality=100&sign=50e8e6b8&sv=2)
+
 4) Далее нажимаем **"Добавить из буфера обмена",**  после чего ключ будет добавлен:
 
 ![](https://wiki.aeza.net/~gitbook/image?url=https%3A%2F%2F3617065060-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FUnRPFrwc6T8DKu166mM1%252Fuploads%252F9hjMfgJGujXtcJcev88n%252FScreenshot_17.jpg%3Falt%3Dmedia%26token%3De84944e1-018a-4c94-824a-5f30f742b824&width=768&dpr=4&quality=100&sign=fa8df411&sv=2)
+
 5) Далее видим примерно такую картину. Нажимаем кнопку **«Нажмите для подключения»** и пользуемся.
 
 ![](https://wiki.aeza.net/~gitbook/image?url=https%3A%2F%2F3617065060-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FUnRPFrwc6T8DKu166mM1%252Fuploads%252FsxBIkAU4VmWmgJXYjKMw%252FScreenshot_49.jpg%3Falt%3Dmedia%26token%3D06c8ed39-9436-46ba-a5e8-f175e8adb3aa&width=768&dpr=4&quality=100&sign=6c360397&sv=2)
+
 6) Для включения режима VPN необходимо установить запуск приложения от имени администратора в свойствах ярлыка
 
 ![](https://wiki.aeza.net/~gitbook/image?url=https%3A%2F%2F3617065060-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FUnRPFrwc6T8DKu166mM1%252Fuploads%252FA5R1WV47FD4wwiEDNZkH%252FScreenshot_66.jpg%3Falt%3Dmedia%26token%3Dd3877aa3-9873-491e-9518-432319d9aff4&width=768&dpr=4&quality=100&sign=24272102&sv=2)
