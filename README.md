@@ -9,7 +9,7 @@
 
 ![](https://wiki.aeza.net/~gitbook/image?url=https%3A%2F%2F3617065060-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FUnRPFrwc6T8DKu166mM1%252Fuploads%252FpMgT5j3r9TPlWJvSz2oR%252FScreenshot_65.jpg%3Falt%3Dmedia%26token%3D31c89b06-3238-452e-b973-9808c40a927c&width=768&dpr=4&quality=100&sign=95a93515&sv=2)
 
-3) Далее необходимо **СКОПИРОВАТЬ КЛЮЧ, КОТОРЫЙ ПРОСИМ У МЕНЯ**, запускаем приложение **Hiddify** и кликаем **новый профиль:**
+3) Далее необходимо **СКОПИРОВАТЬ КЛЮЧ, КОТОРЫЙ ПРОСИМ У МЕНЯ**, запускаем приложение **Hiddify** и кликаем *"Нновый профиль":**
 
 ![](https://wiki.aeza.net/~gitbook/image?url=https%3A%2F%2F3617065060-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FUnRPFrwc6T8DKu166mM1%252Fuploads%252FcBrbbgeXhP6qRlz7InPx%252FScreenshot_16.jpg%3Falt%3Dmedia%26token%3D465be4a6-300d-4a42-a7a5-f995e41a4e3a&width=768&dpr=4&quality=100&sign=50e8e6b8&sv=2)
 
