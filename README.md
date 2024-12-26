@@ -1,5 +1,5 @@
 
-## 🚀 [Сайт с гайдом](https://vpn-connect.gitbook.io/installation)
+## 🚀 [Сайт с гайдом по настройке VPN](https://vpn-connect.gitbook.io/installation)
 
 ### 📄 Гайды (резерв если умрет сайт)
 
